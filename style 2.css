@@ -1,0 +1,274 @@
+. {
+    margin: 0;
+    padding: 0;
+}
+
+/html,
+body {
+    max-height: 100%;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.menu {
+    background: #2C394B;
+    width: 1520px;
+    height: auto;
+}
+
+.menu ul {
+    text-align: right;
+}
+
+.menu ul .btn {
+    display: inline-block;
+    padding: .5rem 1.3rem;
+    border-radius: 3rem;
+    border: 5 px solid;
+    border-color: orangered;
+    line-height: 1;
+    transition: 0.3sec;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #2C394B;
+    margin-right: 10px;
+    margin-left: 2px;
+}
+
+.menu ul .btn {
+    color: orangered;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    /* margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 3px; */
+}
+
+#ma {
+    margin-top: -18px;
+    padding-top: 30px;
+    width: 1520px;
+    height: 750px;
+    background-color: #334756 !important;
+    overflow: hidden;
+}
+
+.row ul .btn {
+    display: block;
+    padding: 30px 20 px;
+    border: 5 px solid;
+    border-color: gray;
+    transition: 0.3sec;
+    margin-bottom: 15px;
+    background-color: #334756;
+    color: chocolate;
+}
+
+.lol {
+    color: #FF4C29;
+    font-size: 70px;
+    margin-left: 400px;
+    margin-top: -20px;
+    padding-bottom: 10px;
+}
+
+.rectangular {
+    height: 203px;
+    width: 203px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    background-color: #2C394B;
+    /* margin-left: -10px; */
+    display: inline-block;
+    /* margin-top: 10px; */
+    padding-top: 20px;
+}
+
+.im {
+    margin-top: -30px;
+    margin-left: 30px;
+}
+
+
+/* .box {
+    background-color: #334756;
+    width: 203px;
+    height: 34px;
+    border-color: red;
+} */
+
+.ninja {
+    padding-left: 50px;
+    color: #B2B2D4;
+}
+
+.rick {
+    padding-top: 1px;
+    color: #B2B2D4;
+    padding-left: 18px;
+}
+
+.rectangula {
+    height: 203px;
+    width: 203px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    background-color: #2C394B;
+    margin-top: 85px;
+    padding-top: 20px;
+}
+
+.ric {
+    padding-top: 1px;
+    color: #B2B2D4;
+    padding-left: 35px;
+}
+
+.ri {
+    color: #B2B2D4;
+    margin-left: 165px;
+}
+
+.nin {
+    margin-left: 200px;
+    color: #B2B2D4;
+    display: inline-block;
+}
+
+.ninj {
+    padding-left: 70px;
+    color: #B2B2D4;
+}
+
+.ing {
+    margin-top: -70px;
+    padding-left: 20px;
+}
+
+.i {
+    margin-top: -60px;
+    padding-left: 50px;
+}
+
+.il {
+    margin-top: -30px;
+}
+
+.rectangul {
+    height: 203px;
+    width: 203px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    background-color: #2C394B;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.rectangu {
+    height: 203px;
+    width: 203px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    background-color: #2C394B;
+    margin-left: -30px;
+    margin-top: -50px;
+}
+
+.rectang {
+    height: 203px;
+    width: 203px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    background-color: #2C394B;
+    margin-left: 6px;
+    margin-top: -50px;
+}
+
+.rectan {
+    height: 203px;
+    width: 203px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    background-color: #2C394B;
+    margin-left: 34px;
+    margin-top: -50px;
+}
+
+.recta {
+    height: 203px;
+    width: 203px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    background-color: #2C394B;
+    margin-left: 68px;
+    margin-top: -50px;
+}
+
+.hello {
+    padding-left: 30px;
+    color: #B2B2D4;
+}
+
+.easy {
+    padding-left: -30px;
+    color: #B2B2D4;
+}
+
+.ni {
+    padding-left: 90px;
+    color: #B2B2D4;
+}
+
+.r {
+    padding-left: 60px;
+    color: #B2B2D4;
+}
+
+.nice {
+    padding-left: 120px;
+    color: #B2B2D4;
+}
+
+.right {
+    margin-right: -30px;
+    color: #B2B2D4;
+    text-align: right;
+}
+
+
+/* .back {
+    display: inline-block;
+    margin-left: 50px;
+    border: 5 px solid;
+    border-color: #FF4C29;
+    transition: 0.3sec;
+    margin-bottom: 15px;
+    background-color: #334756;
+    color: #FF4C29;
+    border-radius: 40%;
+    padding: 10px 20px;
+}
+
+.front {
+    text-decoration: none;
+    color: #FF4C29;
+}
+
+.line {
+    height: 6px;
+    width: 3px; */
+
+.btn {
+    display: inline-block;
+    padding: .5rem 1.3rem;
+    border-radius: 3rem;
+    border: 5 px solid;
+    border-color: #FF4C29;
+    line-height: 1;
+    transition: 0.3sec;
+    margin-top: 15px;
+    /* background-color: #2C394B;
+    margin-right: 10px; */
+    margin-left: 50px;
+}
